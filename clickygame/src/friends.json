@@ -1,50 +1,62 @@
 [
     {
       "id": 1,
-      "image": "https://vignette.wikia.nocookie.net/spongebobgalaxy/images/0/07/SpongeBob_SquarePants.png/revision/latest?cb=20171228024014"
+      "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/d/d3/JonSnowSeason8HB.jpg/revision/latest/scale-to-width-down/333?cb=20190401173347",
+      "name": "John Snow"
     },
     {
       "id": 2,
-      "image": "https://vignette3.wikia.nocookie.net/vsbattles/images/8/80/Mr._Krabs.png/revision/latest?cb=20150919162131"
+      "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/4/4f/Daenerys_Season_8.jpg/revision/latest/scale-to-width-down/350?cb=20190206213056",
+      "name": "Daenerys Targaryen"
     },
     {
       "id": 3,
-      "image": "https://vignette2.wikia.nocookie.net/fictionalcharacters/images/a/ac/Squidward.png/revision/latest?cb=20131121012626"
+      "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/f/f3/Sansa_S8.jpg/revision/latest/scale-to-width-down/350?cb=20190206213553",
+      "name": "Sansa Stark"
     },
     {
       "id": 4,
-      "image": "https://s-media-cache-ak0.pinimg.com/originals/fe/32/49/fe32495d45283cd6860ae122f0aeaad9.png"
+      "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/b/b1/Arya_Season_8.jpg/revision/latest/scale-to-width-down/350?cb=20190206213617",
+      "name": "Arya Stark"
     },
     {
       "id": 5,
-      "image": "https://vignette4.wikia.nocookie.net/vsbattles/images/3/39/Courage-0.png/revision/latest?cb=20160719055423"
+      "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/9/90/BranSeason8Cropped.PNG/revision/latest/scale-to-width-down/344?cb=20190207114454",
+      "name": "Bran Stark"
     },
     {
       "id": 6,
-      "image": "https://vignette1.wikia.nocookie.net/doug/images/3/3b/Doug001.gif/revision/latest?cb=20110807170511"
+      "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/b/be/CerseiLannisterQOTAATFMSeason8.PNG/revision/latest/scale-to-width-down/302?cb=20190207113624",
+      "name": "Cersei Lannister"
     },
     {
       "id": 7,
-      "image": "https://vignette2.wikia.nocookie.net/deathbattlefanon/images/2/2b/Bugs_Bunny.png/revision/latest?cb=20151206010607"
+      "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/5/51/JaimeLannisterSeason8.PNG/revision/latest/scale-to-width-down/317?cb=20190207112813",
+      "name": "Jamie Lannister"
     },
     {
       "id": 8,
-      "image": "http://vignette3.wikia.nocookie.net/p__/images/9/9a/Johnny_Bravo.png/revision/latest?cb=20131031233339&path-prefix=protagonist"
+      "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/8/86/Tyrion_S8_Cropped.jpg/revision/latest/scale-to-width-down/307?cb=20190206214225",
+      "name": "Tyrion Lannister"
     },
     {
       "id": 9,
-      "image": "https://vignette4.wikia.nocookie.net/uncyclopedia/images/e/e4/Tommy_Pickles.png/revision/latest?cb=20110530102641"
+      "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/9/99/Bronn_Dragonpit.jpg/revision/latest?cb=20170903202847",
+      "name": "Bronn"
     },
     {
       "id": 10,
-      "image": "http://vignette3.wikia.nocookie.net/rockosmodernlife/images/9/9e/Rockos-modern-life-4e582a8f06a41.png/revision/latest?cb=20130522173416"
+      "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/0/07/Melisandre_%28The_Queen%27s_Justice%29.png/revision/latest/scale-to-width-down/319?cb=20170830235514",
+      "name": "Melisandre"
     },
     {
       "id": 11,
-      "image": "http://vignette2.wikia.nocookie.net/dragon-rap-battles/images/b/b6/Captain_Planet.png/revision/latest?cb=20160911200836"
+      "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/b/bc/Sandor_Clegane_Season_7_Promo_Image.PNG/revision/latest/scale-to-width-down/343?cb=20170828063713",
+      "name": "Sandor Clegane"
     },
     {
       "id": 12,
-      "image": "http://static.tvtropes.org/pmwiki/pub/images/ickis.png"
+      "image": "https://vignette.wikia.nocookie.net/gameofthrones/images/3/30/Samwell_Season_8_Cropped.PNG/revision/latest/scale-to-width-down/315?cb=20190207112410",
+      "name": "Samwell Tarly"
     }
   ]

@@ -1,11 +1,18 @@
-.wrapper {
-    padding-top: 50px;
-    background: #ECEFF1;
-    height: 100%;
-    display: flex;
-    flex-flow: row wrap;
-    padding: 20px;
-    justify-content: space-around;
-    align-content: flex-start;
-    overflow: auto;
-  }
+h1 {
+  width: 100%;
+  text-align: center;
+  font-size: 4rem;
+  text-decoration: underline;
+  color:white;
+  margin-bottom: 50px;
+}
+h2 {
+  text-align: right;
+  color: white
+}
+.jumbotron {
+  background-color: black
+}
+h4 {
+  color: white
+}

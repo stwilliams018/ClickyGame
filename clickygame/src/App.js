@@ -43,14 +43,14 @@ clickImage = id => {
         else {
           var oldChosen = this.state.chosen
           console.log(oldChosen)
-          var newChosen = oldChosen.push(id)
+          var newChosen = [oldChosen.push(id)]
           console.log(newChosen, "NewChosen")
           var oldOrder = this.state.friends
           var newOrder = this.shuffleImages(oldOrder)
           this.setState({
             points: this.state.points +1,
             friends: newOrder,
-            chosen: newChosen
+            chosen: [newChosen]
 
           })
             //this.state.points ++;
@@ -74,6 +74,7 @@ clickImage = id => {
               id={image.id}
               key={i}
               image={image.image}
+              name = {image.name}
             />)
           })}
       </div>
