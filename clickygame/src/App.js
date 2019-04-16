@@ -41,16 +41,14 @@ clickImage = id => {
             this.finishGame()
         }
         else {
-          var oldChosen = this.state.chosen
-          console.log(oldChosen)
-          var newChosen = [oldChosen.push(id)]
-          console.log(newChosen, "NewChosen")
+          var newChosen = this.state.chosen.concat(id)
+          console.log(newChosen)
           var oldOrder = this.state.friends
           var newOrder = this.shuffleImages(oldOrder)
           this.setState({
             points: this.state.points +1,
             friends: newOrder,
-            chosen: [newChosen]
+            chosen: newChosen
 
           })
             //this.state.points ++;
